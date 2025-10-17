@@ -65,7 +65,7 @@ progress_hook()	Displays live download progress in terminal
 download_youtube()	Handles YouTube downloading with yt-dlp
 main	Orchestrates the automation workflow
 🪄 Folder Structure
-📦 Auto-YouTube-Downloader
+📦 Auto-YouTube-Downloader<br>
 ├── downloader.py        # Main Python script<br>
 ├── ffmpeg/              # Auto-downloaded FFmpeg folder<br>
 ├── README.md            # Documentation<br>
