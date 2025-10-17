@@ -17,7 +17,6 @@ Table of contents
 - Folder structure
 - Troubleshooting
 - Contributing
-- License
 - Author & Contact
 
 ---
