@@ -132,13 +132,8 @@ Planned improvements
 - Improve cross-platform support (Linux/macOS)
 - Auto-updater for yt-dlp and FFmpeg
 
-License
--------
-This project is provided under the MIT License. See LICENSE file for details (if included).
-
 Author & Contact
 ----------------
 Soham Thummar  
 GitHub: https://github.com/SOHAM-THUMMAR
 
-If you'd like a README modified further (for a specific style, badge set, or to include screenshots/GIFs), tell me which style you prefer and I will update it.
