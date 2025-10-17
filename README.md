@@ -94,12 +94,12 @@ How it works (high level)
 - main(): CLI + orchestration
 
 Folder structure
-----------------
-Auto-YouTube-Downloader/
-├── downloader.py        # Main script (entry point)
-├── ffmpeg/              # Auto-downloaded FFmpeg (created at runtime if needed)
-├── README.md            # This file
-└── requirements.txt     # Optional list of dependencies
+----------------<br>
+Auto-YouTube-Downloader/<br>
+├── downloader.py        # Main script (entry point)<br>
+├── ffmpeg/              # Auto-downloaded FFmpeg (created at runtime if needed)<br>
+├── README.md            # This file<br>
+└── requirements.txt     # Optional list of dependencies<br>
 
 Troubleshooting
 ---------------
